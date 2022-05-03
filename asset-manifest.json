@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/yingshifeng_webPage/static/css/main.073c9b0a.css",
-    "main.js": "/yingshifeng_webPage/static/js/main.8dc11b48.js",
-    "static/js/787.28cb0dcd.chunk.js": "/yingshifeng_webPage/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/yingshifeng_webPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/yingshifeng_webPage/static/css/main.10c345fd.css",
+    "main.js": "/yingshifeng_webPage/static/js/main.2cb974b6.js",
+    "static/media/5.png": "/yingshifeng_webPage/static/media/5.1ce7fa0942cb50e65f73.png",
+    "static/media/2.png": "/yingshifeng_webPage/static/media/2.0af39952f2ea870bfa2e.png",
+    "static/media/3.png": "/yingshifeng_webPage/static/media/3.667479409c856fa5a31d.png",
+    "static/media/6.png": "/yingshifeng_webPage/static/media/6.3a2b75b120ce50fdbd17.png",
+    "static/media/4.png": "/yingshifeng_webPage/static/media/4.5765eec9b15c015b08ec.png",
+    "static/media/1.png": "/yingshifeng_webPage/static/media/1.4ad106d509b64dc07bd2.png",
+    "static/media/me.png": "/yingshifeng_webPage/static/media/me.dcc9a4bbd198a67ea4e9.png",
+    "static/media/me-about1.jpg": "/yingshifeng_webPage/static/media/me-about1.e050ebad9047c4599a88.jpg",
+    "static/media/yingshi_feng_resume.docx": "/yingshifeng_webPage/static/media/yingshi_feng_resume.5b33a93696a3991701d6.docx",
     "index.html": "/yingshifeng_webPage/index.html",
-    "main.073c9b0a.css.map": "/yingshifeng_webPage/static/css/main.073c9b0a.css.map",
-    "main.8dc11b48.js.map": "/yingshifeng_webPage/static/js/main.8dc11b48.js.map",
-    "787.28cb0dcd.chunk.js.map": "/yingshifeng_webPage/static/js/787.28cb0dcd.chunk.js.map"
+    "main.10c345fd.css.map": "/yingshifeng_webPage/static/css/main.10c345fd.css.map",
+    "main.2cb974b6.js.map": "/yingshifeng_webPage/static/js/main.2cb974b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8dc11b48.js"
+    "static/css/main.10c345fd.css",
+    "static/js/main.2cb974b6.js"
   ]
 }
