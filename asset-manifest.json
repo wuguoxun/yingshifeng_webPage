@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.10c345fd.css",
-    "main.js": "/portfolio/static/js/main.60ecdc31.js",
-    "static/media/5.png": "/portfolio/static/media/5.1ce7fa0942cb50e65f73.png",
-    "static/media/2.png": "/portfolio/static/media/2.0af39952f2ea870bfa2e.png",
-    "static/media/3.png": "/portfolio/static/media/3.667479409c856fa5a31d.png",
-    "static/media/6.png": "/portfolio/static/media/6.3a2b75b120ce50fdbd17.png",
-    "static/media/4.png": "/portfolio/static/media/4.5765eec9b15c015b08ec.png",
-    "static/media/1.png": "/portfolio/static/media/1.4ad106d509b64dc07bd2.png",
-    "static/media/me.png": "/portfolio/static/media/me.dcc9a4bbd198a67ea4e9.png",
-    "static/media/me-about1.jpg": "/portfolio/static/media/me-about1.e050ebad9047c4599a88.jpg",
-    "static/media/yingshi_feng_resume.pdf": "/portfolio/static/media/yingshi_feng_resume.186f779fde2d4e527bc6.pdf",
-    "index.html": "/portfolio/index.html",
-    "main.10c345fd.css.map": "/portfolio/static/css/main.10c345fd.css.map",
-    "main.60ecdc31.js.map": "/portfolio/static/js/main.60ecdc31.js.map"
+    "main.css": "/yingshifeng_webPage/static/css/main.10c345fd.css",
+    "main.js": "/yingshifeng_webPage/static/js/main.e9f0e6e8.js",
+    "static/media/5.png": "/yingshifeng_webPage/static/media/5.1ce7fa0942cb50e65f73.png",
+    "static/media/2.png": "/yingshifeng_webPage/static/media/2.0af39952f2ea870bfa2e.png",
+    "static/media/3.png": "/yingshifeng_webPage/static/media/3.667479409c856fa5a31d.png",
+    "static/media/6.png": "/yingshifeng_webPage/static/media/6.3a2b75b120ce50fdbd17.png",
+    "static/media/4.png": "/yingshifeng_webPage/static/media/4.5765eec9b15c015b08ec.png",
+    "static/media/1.png": "/yingshifeng_webPage/static/media/1.4ad106d509b64dc07bd2.png",
+    "static/media/me.png": "/yingshifeng_webPage/static/media/me.dcc9a4bbd198a67ea4e9.png",
+    "static/media/me-about1.jpg": "/yingshifeng_webPage/static/media/me-about1.e050ebad9047c4599a88.jpg",
+    "static/media/yingshi_feng_resume.pdf": "/yingshifeng_webPage/static/media/yingshi_feng_resume.07ac6987c8c641d7f656.pdf",
+    "static/media/8.png": "/yingshifeng_webPage/static/media/8.07319f36085271de185f.png",
+    "static/media/9.png": "/yingshifeng_webPage/static/media/9.2e10ccae0b50a3cfa862.png",
+    "static/media/7.png": "/yingshifeng_webPage/static/media/7.f9e426ea251e284c2217.png",
+    "index.html": "/yingshifeng_webPage/index.html",
+    "main.10c345fd.css.map": "/yingshifeng_webPage/static/css/main.10c345fd.css.map",
+    "main.e9f0e6e8.js.map": "/yingshifeng_webPage/static/js/main.e9f0e6e8.js.map"
   },
   "entrypoints": [
     "static/css/main.10c345fd.css",
-    "static/js/main.60ecdc31.js"
+    "static/js/main.e9f0e6e8.js"
   ]
 }
